@@ -9,6 +9,5 @@ Currently a student at TJHSST, love robotics, Java, and anime
 - myanimelist: https://myanimelist.net/profile/asiank0ala
 - twitter: https://twitter.com/asiank0ala
 - twitch: https://twitch.tv/koawa
-- osu: https://osu.ppy.sh/users/11534384
 
 ![senjougahara](https://i.pinimg.com/originals/c2/21/6c/c2216cf1c1cbaf713ead3037df577c3e.gif)

@@ -8,6 +8,6 @@ Currently a student at TJHSST, love robotics, Java, and anime
 - discord: asiank0ala#8008
 - [twitter](https://twitter.com/asiank0ala)
 - [mal](https://myanimelist.net/profile/asiank0ala)
-- [https://twitch.tv/koawa](twitch)
+- [twitch](https://twitch.tv/koawa)
 
 ![senjougahara](https://i.pinimg.com/originals/c2/21/6c/c2216cf1c1cbaf713ead3037df577c3e.gif)

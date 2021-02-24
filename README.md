@@ -1,16 +1,14 @@
-L
+## yo :flushed:
+Currently a student at TJHSST, love robotics, Java, and anime  
 
-<!--
-**AsianKoala/AsianKoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![github stats](https://github-readme-stats.vercel.app/api?username=asiankoala&theme=prussian&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### heres my socials if you want to reach out to me :point_down:  
+- discord: asiank0ala#8008
+- myanimelist: https://myanimelist.net/profile/asiank0ala
+- twitter: https://twitter.com/asiank0ala
+- twitch: https://twitch.tv/koawa
+- osu: https://osu.ppy.sh/users/11534384
+
+![senjougahara](https://i.pinimg.com/originals/c2/21/6c/c2216cf1c1cbaf713ead3037df577c3e.gif)

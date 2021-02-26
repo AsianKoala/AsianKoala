@@ -1,7 +1,7 @@
 ## yo :flushed:
 Currently a student at TJHSST, love robotics, Java, and anime  
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=asiankoala&theme=prussian&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=asiankoala&theme=prussian&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 ### heres my socials if interested :point_down:  

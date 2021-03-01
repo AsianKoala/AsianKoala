@@ -1,10 +1,10 @@
 ## yo :flushed:
-Currently a student at TJHSST, love robotics, Java, and anime  
+Currently a student at TJHSST, love robotics and anime
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=asiankoala&theme=prussian&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-### heres my socials if interested :point_down:  
+### heres my socials if interested :flushed: :point_down:  
 - discord: asiank0ala#8008
 - [twitter](https://twitter.com/asiank0ala)
 - [mal](https://myanimelist.net/profile/asiank0ala)

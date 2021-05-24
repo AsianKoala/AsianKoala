@@ -3,8 +3,8 @@
 ## yo
 Currently a student at TJHSST  
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=asiankoala&theme=prussian&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)  
-
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=asiankoala&theme=prussian&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)  
+ -->
 
   
   ![](https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwJpPNgfkT8Rc_mOqgQz9KAA)  

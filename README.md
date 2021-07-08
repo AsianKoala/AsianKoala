@@ -1,7 +1,6 @@
 <div align="center">
 
-## yo
-Currently a student at TJHSST  
+student
 
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=asiankoala&theme=prussian&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)  
  -->

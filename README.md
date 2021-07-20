@@ -11,7 +11,6 @@ student at tjhsst
   [twitter](https://twitter.com/asiank0ala)  
   [twitch](https://twitch.tv/koawa)  
   [mal](https://myanimelist.net/profile/asiank0ala)  
-  [al](https://anilist.co/user/asiank0ala/)  
   [spotify](https://open.spotify.com/user/37ictkf83g642m1p5o9o89xb6?si=WNPQSRKWQB6Amd9chNhjxQ)  
   [osu](https://osu.ppy.sh/users/11534384)  
   [steam](https://steamcommunity.com/id/asiank0ala)  

@@ -6,6 +6,6 @@ student at tjhsst
  -->
 
   
-  ![](https://cdn.discordapp.com/attachments/843664698264387614/851791942445695006/1623126730372.gif)  
+  ![](https://cdn.discordapp.com/attachments/770810258322227231/933569254555549716/001.jpg)  
   [discord](https://discordapp.com/users/343436575046369292)  
 </div>

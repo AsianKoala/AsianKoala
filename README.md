@@ -4,6 +4,6 @@
  -->
 
   
-  ![](https://cdn.discordapp.com/attachments/770810258322227231/933569254555549716/001.jpg)  
+  ![](https://cdn.discordapp.com/attachments/674825944699109376/948789053183098910/20220301_023121.jpg)  
   [discord](https://discordapp.com/users/343436575046369292)  
 </div>

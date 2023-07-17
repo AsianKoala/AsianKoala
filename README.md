@@ -10,7 +10,7 @@
 
 I'm passionate about Linux, robotics, and backend dev.
 
-Currently a student at TJHSST.
+TJHSST '23. Currently a student at Stony Brook University with a guaranteed transfer to Georgia Tech.
 
 ![](https://github-readme-stats.vercel.app/api?username=asiankoala&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiankoala&layout=compact&theme=transparent)

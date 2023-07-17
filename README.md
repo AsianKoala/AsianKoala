@@ -12,7 +12,7 @@ I'm passionate about Linux, robotics, and backend dev.
 
 TJHSST Class of 2023. 
 
-Currently a freshman @ Stony Brook University w/ a guaranteed transfer to Georgia Tech.
+Currently a freshman @ Stony Brook University.
 
 ![](https://github-readme-stats.vercel.app/api?username=asiankoala&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiankoala&layout=compact&theme=transparent)

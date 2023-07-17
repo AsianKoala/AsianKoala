@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I'm passionate about Linux, robotics, and backend dev.
+I'm passionate about Linux, backend development, and control theory.
 
 TJHSST Class of 2023. 
 

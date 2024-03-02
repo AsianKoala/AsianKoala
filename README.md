@@ -6,13 +6,9 @@
 <!-- ![langs](https://api.githubtrends.io/user/svg/AsianKoala/langs?time_range=one_year&group=other&theme=dark) -->
 <!-- ![repos](https://api.githubtrends.io/user/svg/AsianKoala/repos?time_range=one_year&group=other&theme=dark) -->
 
-## Hi there 👋
-
-I'm passionate about Linux, backend development, and competitive programming.
-
 TJHSST '23. 
 
-Stony Brook University CS '26.
+Stony Brook University CS + Math '26.
 
 ![](https://github-readme-stats.vercel.app/api?username=asiankoala&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiankoala&layout=compact&theme=transparent)

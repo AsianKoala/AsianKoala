@@ -9,7 +9,7 @@
 
 Stony Brook University CS + Math '26
 
-TJHSST '23. 
+TJHSST '23
 
 ![](https://github-readme-stats.vercel.app/api?username=asiankoala&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiankoala&layout=compact&theme=transparent)
